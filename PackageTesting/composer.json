@@ -1,0 +1,10 @@
+{
+    "name": "satyam/package-testing",
+    "authors": [
+        {
+            "name": "SATYAM SAHU",
+            "email": "satyam.sahu@thehigherpitch.com"
+        }
+    ],
+    "require": {}
+}

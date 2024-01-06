@@ -26,13 +26,15 @@
         "psr-4": {
             "App\\": "app/",
             "Database\\Factories\\": "database/factories/",
-            "Database\\Seeders\\": "database/seeders/"
+            "Database\\Seeders\\": "database/seeders/",
+            "Test\\Calculator\\": "PackageTesting/Test/Calculator/src"
         }
     },
     "autoload-dev": {
         "psr-4": {
             "Tests\\": "tests/",
-            "HelloWorld\\" : "HelloWorld/src"
+            "HelloWorld\\" : "HelloWorld/src",
+            "hello\\" : "hello/src"
         }
     },
     "scripts": {
