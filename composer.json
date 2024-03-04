@@ -12,8 +12,17 @@
         "laravel/sanctum": "^2.11",
         "laravel/scout": "^8.4",
         "laravel/tinker": "^2.5",
-        "yab/laravel-scout-mysql-driver": "^3.0"
+        "yab/laravel-scout-mysql-driver": "^3.0",
+        "satyamrudransh/package": "dev-master"
+
     },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/satyamrudransh/package.git"
+        }
+    ],
+
     "require-dev": {
         "facade/ignition": "^2.5",
         "fakerphp/faker": "^1.9.1",
